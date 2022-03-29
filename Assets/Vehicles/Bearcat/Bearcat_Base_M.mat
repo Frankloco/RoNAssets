@@ -1,0 +1,11 @@
+Diffuse=BlendFunc_DefBase
+Normal=Bearcat_Metal_Atlas_Normal
+Other[0]=BlendFunc_DefBlend
+Other[1]=Bearcat_Metal_Atlas_BaseColor
+Other[2]=Bearcat_Metal_Atlas_OcclusionRoughnessMetallic
+Other[3]=MASK
+Other[4]=T_Bare_Metal_Corrugated_BaseColorRoughness
+Other[5]=T_Bare_Metal_Corrugated_Normal
+Other[6]=T_Bare_Metal_Corrugated_Roughness2
+Other[7]=T_flat_normal256
+Other[8]=T_steel_BaseColorRoughness

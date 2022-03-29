@@ -1,0 +1,7 @@
+Diffuse=Flood_Light_Albedo
+Normal=Bearcat_Interior_Hero_Normal
+Emissive=Flood_Light_Emissive
+Other[0]=Bearcat_Interior_Hero_BaseColor
+Other[1]=Bearcat_Interior_Hero_OcclusionRoughnessMetallic
+Other[2]=Flood_Light_Mix
+Other[3]=Flood_Light_NM
